@@ -1,10 +1,13 @@
 # React Restaurant Online Menu
 
-This repository contains a simple online menu built using React.js.
+This repository contains a simple  online menu with  beautiful user interface 🌟 built using React.js.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/289677c3-977c-404b-9ff0-b49f26bfbc86)
 
 ![Restaurant Online Menu Screenshot](Screenshot.png)
+
+![image](https://github.com/user-attachments/assets/dd40867c-7457-42b9-b9e8-49ec713143d1)
 
 ## Technologies Used
 
@@ -27,7 +30,7 @@ This repository contains a simple online menu built using React.js.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iamhosen/react-restaurant-app.git
+   git clone https://github.com/M-Aitisam/Resturant-Project.git
 
 2. Navigate to the project directory:
    
